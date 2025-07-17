@@ -4,7 +4,7 @@ This project focuses on estimating the Customer Lifetime Value (CLV) for an onli
 
 Objectives:
 
-Segment customers based on purchasing behavior.
-Build an RFM (Recency, Frequency, Monetary) model.
-Predict CLV using both probabilistic and regression-based models.
-Visualize high-value customers and trends for business insights.
+Segment customers based on purchasing behavior.  
+Build an RFM (Recency, Frequency, Monetary) model.  
+Predict CLV using both probabilistic and regression-based models.  
+Visualize high-value customers and trends for business insights.  
